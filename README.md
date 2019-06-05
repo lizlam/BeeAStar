@@ -1,2 +1,0 @@
-# BeeAStar
-Created with CodeSandbox
